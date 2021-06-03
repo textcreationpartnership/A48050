@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from Colchester to the disperst bretheren of the late intended Whig feast proving that Presbytery is inconsistent with monarchy.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48050</idno><idno type="EEBO-CITATION">15666367</idno>
+  <idno type="VID">104298</idno>
+  <idno type="EEBO-PROQUEST">2240899102</idno>
+  
+            <idno type="STC">Wing L1453</idno>
+            <idno type="STC">ESTC R36325</idno>
+            <idno type="OCLC">15666367</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104298)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1152:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from Colchester to the disperst bretheren of the late intended Whig feast proving that Presbytery is inconsistent with monarchy.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hickeringill, Edmund, 1631-1708. --  Curse ye Meroz.</term>
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="topical_term">Presbyterianism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104298:1"/>
+            <head>A LETTER from COLCHESTER, To the Disperst Bretheren of the late intended <hi>Whig Feast.</hi> Proving that <hi>Presbytery</hi> is inconsistent with <hi>Monarchy.</hi>
+            </head>
+            <epigraph>
+               <q>Ite Alacres, tantae{que} praecor confidite <bibl>
+                     <hi>Causae. Papirius.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>ST. <hi>Hick</hi>—, the now <hi>Bellarmine,</hi> or <hi>Bellwether</hi> of the <hi>Faction,</hi> in his <hi>Preface</hi> to <hi>Curse ye Meroz,</hi> has these words, <hi>(viz.) Religion and Loyalty are Twins, that in our Christian Kingdom, are Born, and Live, and Die together: For</hi> (says he) <hi>no Man in</hi> England <hi>at this day can be truly Religious, that is not truly Loyal; nor any Man truly Loyal, that is not truly Religious: I mean not only in the sence of that great and good</hi> German Emperour, <hi>that turned away his Prophane Servant with these words,</hi> How can he be faithful to me, that is not faithful to his God? <hi>But chiefly, because true Loyalty as well as true Religion, are nothing else but an Obedience to God and the King.</hi> And in his Sermon on <hi>Curse ye Meroz,</hi> Pag. 22. the same famous St. <hi>Hick</hi>— thus has it, <hi>Religion, true Religion, (our Saviour says▪) like a Tree, is known by the Fruits; consult all Histories, Ancient and Modern, view the present posture of Affairs; if ever this Hundred years there ever was any Rebellion, Mas<g ref="char:EOLhyphen"/>sacre, Tumults or Treasons, Blood, Rapine, and Murther, but either</hi> Papist, <hi>or</hi> Pha<g ref="char:EOLhyphen"/>natick, <hi>or both, had the great hand in it. To look</hi> (said he,) <hi>no further back than the Reign of King</hi> James; <hi>Who Dethron'd his Mother, and made a Slave and Property of him in his Infancy, but that Bloody</hi> Knox, Bucanan, <hi>&amp; the rest of the Puritan</hi> Presbyterian Brood? <hi>By woful experience he tells his Son, our late Martyr'd Soveraign in his</hi> Basilicon Doron, That under pretence of Religion, he should find <hi>(alas! alas!)</hi> (said St. <hi>Hick—,) he did find it by sad experience,)</hi> no such Barbarous and Bloody Villains in the World.</p>
+            <p>The greatest Quarrels that have at any time produced the most greivous events in the Church, have for the most part been in point of Discipline; however some Men make a noise and Bellow out their Discension, barely against Rights and Ceremonies, (which are but Shadows,) as if that were all: And we shall find that in the most Essential parts of Discipline, which concerns the Sway of Church and State [the Subjection of Prince and People,] they do not only shake hands again with <hi>Popery,</hi> but with the most rigid <hi>Papists</hi> [the <hi>Jesuits,</hi>] and most m <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nifestly seperate them<g ref="char:EOLhyphen"/>selves from the Tenets of the <hi>Protestant</hi> Church: Both of them agree in that <hi>Jesu<g ref="char:EOLhyphen"/>itical</hi> Tenet, that <hi>Dominion is founded in Grace,</hi> both of them will without Scruple <hi>Do evil that good may come thereof,</hi> Equivocate, Lie, Plunder, Sequester and Behead for Gods sake, and the <hi>Causes</hi> sake; Both of them oppose and exalt themselves above all that is called God; the one exalts the <hi>Miter</hi> above the <hi>Crown,</hi> and the <hi>Crozier</hi> above the <hi>Scepter;</hi> and the other plumes himself in his Almighty Pulpit, whilst the Magistrate truckles under him upon the Stool of Repentance. Upon which says St. <hi>Hick</hi>—, [late of <hi>Colchester</hi> Defunct,] <hi>The</hi> Pope <hi>is a Prince of Antient Gran<g ref="char:EOLhyphen"/>deur, and has large Teritories and Dominions, and it will be the least Dishonour to be Subject to him; But for a Prince to stoop to</hi> Geneva Upstarts, <hi>that have nothing eminent but Ears and Mouth, is the vilest of Subjection, and sets a value upon</hi> Turkish <hi>Slavery, in comparison of this. And though the</hi> Papists [says he,] <hi>might</hi> Plot Rebellion <hi>and</hi> Treason, <hi>yet the</hi> Phanaticks <hi>have not only</hi> Plotted, <hi>but twice been up in Arms,</hi> [speak<g ref="char:EOLhyphen"/>ing of these times,] <hi>which the</hi> Papists <hi>never were, twice I say in Arms and open Field-Fights in</hi> Scotland, <hi>not to mention the Desolation, the Bondage, the Tirany and Oppres<g ref="char:EOLhyphen"/>sion these Kingdoms have groaned under for so many Years, before His Majesties happy Restauration.</hi> Let us now see by the way Mr. <hi>Baxters</hi> resolution in three C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ses of Conscience upon this point; <hi>If</hi> [says he] <hi>a Person enter into a Military State against the People, and by them be Conquered, they are not obliged to restore him, unless there be some other special obligation upon them besides their Allegiance.</hi> Thes. 145. <hi>And moreover, If the</hi> Person <hi>dispossest [though it were unjustly,] do afterwards become uncapable of Government, it is not the Subjects duty to seek his Restauration.</hi> Thes. 146. <hi>And yet again, Whoever expels the Soveraign, though Injuriously, and resolves to ruin the</hi> Com<g ref="char:EOLhyphen"/>monwealth <hi>rather than he shall be restored: And if the</hi> Commonwealth <hi>may prosper without his Restitution, it is the duty of such an injured Prince, for the Common good to resign His Government; And if he will not, the People ought to Judge him as made in<g ref="char:EOLhyphen"/>capable by Providence.</hi> Thes. 147. And again, <hi>Hol. Com.</hi> pag. 480. <hi>I knew that the King had all his Power for the Common good, and had therefore none against it.</hi> And yet
+<pb n="2" facs="tcp:104298:2"/> further, <hi>The Parliament did not raise War against the Person or Authority of the King; nor did I</hi> [Mr. Baxter,] <hi>ever serve them on any such account; but to defend themselves against the Kings misguided will. Ibid</hi> 476. And in his Preface to that <hi>System</hi> of <hi>Presbytery</hi> his <hi>Hol. Com. Prove</hi> [says he,] <hi>that the King was the highest Power in the time of Division, And I will offer my Head to Justice as a Rebel;</hi> His meaning must be inevitably this, Either that the King had no right to the Crow<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before the Divisions, or that he for<g ref="char:EOLhyphen"/>feited his Title by the Rebellion, which is one of his ways of pressing obedience to the Higher Powers.</p>
+            <p>Let any Man, that is not blinded with Zeal, now look and determine in these fol<g ref="char:EOLhyphen"/>lowing Positions, Whether this <hi>Monarchy</hi> can live under the Discipline of a <hi>True Pres<g ref="char:EOLhyphen"/>byterian? We hold</hi> [says Mr. <hi>Baxter</hi> in his <hi>Hol. Com.</hi> pag. 457.] <hi>That the Parliament, by the Constitution, have part of the Soveraignty:</hi> Secondly, <hi>That the Soveraignty is joyntly in King, Lords, and Commons, as Three Estates.</hi> pag. 465. Thirdly, <hi>That the Par<g ref="char:EOLhyphen"/>liament have a Power of Enacting Laws, as well as Proposing them.</hi> pag. 462. But the <hi>Episcopal Protestant</hi> does pronounce the Soveraignty to be only in the King. <hi>Secondly,</hi> They assert the Kings Sole Supremacy in all Causes, and over all Persons whatsoever, as well Ecclesiastical as Civil: And in the service of <hi>Gunpowder Treason,</hi> 'tis said, <hi>There are three Estates besides the King,</hi> which the <hi>Whigs</hi> will not allow; But will have it, that the King shall be <hi>One</hi> of the three Estates, and then infer that he is Co-ordinate with the other <hi>Two.</hi> From whence they argue, that a War maintained against <hi>Him,</hi> by the other <hi>Two</hi> may be lawful. And that, as the King may Dissolve the Parliament, so the Parliament may serve the King. <hi>Thirdly,</hi> That the <hi>Two Houses</hi> have no share at all in the Sanction. <hi>We likewise hold</hi> [Hol. Com. 478.] <hi>that it was Treason to resist the Parliament, as the Enemy did, apparently, in order to their Subversion. That the Parlia<g ref="char:EOLhyphen"/>ment was the Highest Interpreter of Laws that was then exist<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, in the Division.</hi> And so we find that every step of the Parliamentary War was justified, not by this Father a<g ref="char:EOLhyphen"/>lone, but by the Assembly too, and the whole current of the <hi>Presbyterian Divines.</hi> The <hi>Episcopal Clergy</hi> unanimously declaring themselves to the contrary; Who but the Assembly <hi>July</hi> 19. 43. In the names of themselves and others, do call for the Execution of Justice, on <hi>All Delinquents? Husband</hi> 2d. <hi>vol. of Collections,</hi> 241. And who again <hi>Aug.</hi> 10. 43. But the Divines of the <hi>Assembly</hi> that are Residents of the <hi>Associated Coun<g ref="char:EOLhyphen"/>ties,</hi> and now attending the <hi>Assembly,</hi> are desired to go down into their several Coun<g ref="char:EOLhyphen"/>ties, to stir up the People to rise for their Defence, <hi>Ibid.</hi> 285. And since no M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n doubts but that the <hi>Whigs</hi> did begin the War; Be it remembered, that when the Faction did press the King to Disband his Troops at <hi>York,</hi> or otherwise threatened to take the Qui<g ref="char:EOLhyphen"/>et of the Kingdom into their own Care. They passed these <hi>AGREEABLE</hi> Votes.</p>
+            <div type="part">
+               <head>Resolved upon the Question.</head>
+               <p n="1">1. <hi>That it appears that the King [seduced by wicked Counsels,] intends to make War against the Parliament,</hi> &amp;c.</p>
+               <p n="2">2. <hi>That whensoever the King maketh War upon the Parliament, it is a Breach of the trust reposed in him by his People, contrary to his Oath, and tending to the Dissolution of this Government.</hi>
+               </p>
+               <p n="3">3. <hi>That wh<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>soever shall serve, or assist him in such Wars, are Traytors by the Funda<g ref="char:EOLhyphen"/>mental Laws of this Kingdom; and have been so adjudged by two Acts of Parliament and ought to suffer as Traytors,</hi> &amp;c.</p>
+               <p>And then again comes Mr. <hi>Jenkinks,</hi> who (in his Sermon Preached before the Com<g ref="char:EOLhyphen"/>mons <hi>Sept.</hi> 25. 1656. pag. 23.) speaks to this purpose, <hi>If the re-imposing of Ceremonies could have brought the late King to life again, he would never have yielded to it.</hi> And in a Fast Sermon to the Commons 31. <hi>Jan.</hi> 48. pag. 5. <hi>When Kings command unrighteous things, &amp; People suit them with willing compliances, none doubts but the Destruction of them both is Just and Righteous.</hi> And Mr. <hi>Cockayne</hi> 29 <hi>Nov.</hi> 48. both urges and perswades the Murther of our late Soveraign, by comparing him to <hi>Benhadad,</hi> King of <hi>Assyria</hi> whose Life, <hi>Ahab</hi> King of <hi>Israel</hi> had spared against the will of the Lord. And <hi>Calamy's</hi> Sermon <hi>Dec.</hi> 25. 44. pag. 18. Says, <hi>Th se that made their peace with the King at</hi> Ox<g ref="char:EOLhyphen"/>ford, <hi>were</hi> Judas's <hi>of</hi> England; <hi>and it were just with</hi> God <hi>to give them their portions with</hi> Judas. This needs no Comment, no Figure to render it more Horrendous than it self. I will therefore leave the fact as it plainly stands before every intelligent Being, and leave him to judge whether <hi>Presbytchery</hi> is consistent with our <hi>Monarchy.</hi> And let every good <hi>Protestant</hi> pray to God, to Guard the King and his People from them. <hi>Concutiunt Populos, vexant regna, Sollicitant bella, Diruunt Ecclesias.</hi>
+               </p>
+            </div>
+            <epigraph>
+               <q>Presbyteriani <hi>Sacrificium</hi> ligarunt, Independentes jugularunt. <bibl>
+                     <hi>Salmatius.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. Banks,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
